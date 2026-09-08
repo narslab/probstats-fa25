@@ -35,6 +35,10 @@ exclude:
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.8.2
 color_scheme: light
+callouts:
+  warning:
+    title: Archived offering
+    color: yellow
 search_enabled: true
 heading_anchors: true
 permalink: pretty

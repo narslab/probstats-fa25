@@ -9,6 +9,11 @@ description: Listing of course modules and topics.
 
 ## UMass Amherst, Fall 2025
 
+{: .warning }
+> This is the **archived** website for the Fall 2025 offering. It is no longer
+> updated. For the current offering and a list of all past offerings, see
+> [probstats.narslab.org](https://probstats.narslab.org).
+
 {: .mb-2 .fs-6 .text-grey-dk-000 style="margin-top: 0;"  }
 [Canvas](https://umamherst.instructure.com/courses/31233){:target="_blank" .btn .btn-canvas .mr-1 }
 [Lecture Videos](https://echo360.org/section/47c3b0d1-758e-4090-99ce-7fc3cdd96573/home){:target="_blank" .btn .btn-echo360 .mr-1 }
